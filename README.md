@@ -1,3 +1,5 @@
+[English](./README.en.md) | 简体中文
+
 # Causal-Chain-Observer (因果链观察者：认知框架与 AI 约束协议)
 
 这不是一段代码，而是一套**认知操作系统**和**大语言模型（LLM）底层约束协议**。
